@@ -1,6 +1,6 @@
 # 👨🏻‍💻 João Pereira
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack Júnior`**
 
 Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em Informática para Internet (ênfase em desenvolvimento de sistemas web). Atualmente, faço cursos de aperfeiçoamento e pretendo cursar Ciências da Computação na USP. Sempre gostei muito de tecnologia e estive bastante envolvido com o meio. 
 
@@ -73,14 +73,7 @@ Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="PHP" 
@@ -89,30 +82,16 @@ Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Node.js" 
+    title="Node.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Python" 
@@ -126,8 +105,6 @@ Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. 
 <br/>
 
 ### 📊 Estatísticas
-
-
 
 <img 
       align="left" 
