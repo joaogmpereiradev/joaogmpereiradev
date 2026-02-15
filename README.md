@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em Informática para Internet (ênfase em desenvolvimento de sistemas web). Atualmente, faço cursos de aperfeiçoamento e pretendo cursar Ciências da Computação na USP. Sempre gostei muito de tecnologia e estive bastante envolvido com o meio. 
+Me chamo João Gabriel Menezes Pereira, tenho 19 anos e sou natural São Paulo. Concluí o ensino médio no IFSP, com o curso técnico em Informática para Internet (ênfase em desenvolvimento de sistemas web). Atualmente, faço cursos de aperfeiçoamento na área de TI e também pretendo cursar Ciências Econômicas na USP. Sempre gostei muito de tecnologia e estive bastante envolvido com o meio. Aqui você encontrará alguns dos meus projetos.
 
 
 ---
